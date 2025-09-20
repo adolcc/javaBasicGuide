@@ -4,9 +4,9 @@
 1. [Estructuras Básicas](#estructuras-básicas)
    - [if-else](#if-else)
    - [switch](#switch)
-   - loops (for, while, do-while)
+   - loops [for, while, do-while](#loops)
 2. [Ejemplos Prácticos](#ejemplos-prácticos)
-   - Básicos
+   - [Basicos](#Basicos)
    - Avanzados
 3. [Casos de Uso Reales](#casos-de-uso-reales)
 
@@ -92,7 +92,8 @@ for (Tipo elemento : colección) {
 
 ## Ejemplos Prácticos
 
-### Ejemplo Básico: Calculadora de Notas
+### Basicos 
+### Calculadora de Notas
 ```java
 public class CalificacionEstudiante {
     public String obtenerCalificacion(int puntuacion) {

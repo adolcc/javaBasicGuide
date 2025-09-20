@@ -1,15 +1,15 @@
-### 🔰 Fundamentos Básicos
-1. [Control de Flujo](control-de-flujo.md)
+### 🔰 [Fundamentos Básicos](control-de-flujo.md)
+   Control de Flujo
    - If-else
    - Loops (for, while, do-while)
    - Switch
 
-### 🏗 Programación Orientada a Objetos
-1. [Modificadores de Acceso](oop/access-modifiers.md)
+### 🏗 [Programación Orientada a Objetos](programacion-orientada-objetos.md)
+   Modificadores de Acceso
    - public, private, protected
    - static
-2. [Herencia y Polimorfismo](oop/inheritance-polymorphism.md)
-3. [SOLID](oop/solid.md)
+   - Herencia y Polimorfismo
+   - SOLID
 
 ### 📦 Estructuras de Datos
 1. [Collections](collections/README.md)
@@ -29,4 +29,5 @@
 
 ### 🔧 Utilidades
 1. [Java Utils](utils/java-utils.md)
+
 

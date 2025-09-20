@@ -18,9 +18,9 @@
    - Map
    - Genéricos
 
-### ⚡ Características Modernas
-1. [Lambdas](modern/lambdas.md)
-2. [Anotaciones](modern/annotations.md)
+### ⚡ [Características Modernas](caracteristicas-modernas.md)
+   - Lambdas
+   - Anotaciones
 
 ### 🛠 Testing y Desarrollo
 1. [Excepciones](testing/exceptions.md)
@@ -29,6 +29,7 @@
 
 ### 🔧 Utilidades
 1. [Java Utils](utils/java-utils.md)
+
 
 
 

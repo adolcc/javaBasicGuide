@@ -2,8 +2,8 @@
 
 ## Índice
 1. [Estructuras Básicas](#estructuras-básicas)
-   - if-else
-   - switch
+   - [if-else](#if-else)
+   - [switch](#switch)
    - loops (for, while, do-while)
 2. [Ejemplos Prácticos](#ejemplos-prácticos)
    - Básicos
@@ -13,6 +13,8 @@
 ## Estructuras Básicas
 
 ### If-Else
+### Concepto
+La estructura `if-else` permite ejecutar código basado en una condición booleana.
 ```java
 // Estructura básica
 if (condición) {
@@ -32,6 +34,8 @@ if (condición1) {
 ```
 
 ### Switch
+### Concepto
+`switch` es útil cuando necesitas comparar una variable contra múltiples valores posibles.
 ```java
 switch (variable) {
     case valor1:
@@ -53,22 +57,33 @@ switch (variable) {
 ```
 
 ### Loops
+#### Concepto
+El bucle `for` se usa cuando sabes el número exacto de iteraciones.
 ```java
 // For básico
 for (int i = 0; i < 5; i++) {
     // código
 }
-
+```
+#### Concepto
+El bucle `while` se ejecuta mientras una condición sea verdadera.
+```java
 // While
 while (condición) {
     // código
 }
-
+```
+#### Concepto
+El bucle `Do-While` es similar al `while`, pero garantiza al menos una ejecución.
+```java
 // Do-While
 do {
     // código
 } while (condición);
-
+```
+#### Concepto
+El bucle `for-each` Es ideal para recorrer colecciones o arrays.
+```java
 // For-each
 for (Tipo elemento : colección) {
     // código

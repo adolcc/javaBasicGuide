@@ -11,12 +11,12 @@
    - Herencia y Polimorfismo
    - SOLID
 
-### 📦 Estructuras de Datos
-1. [Collections](collections/README.md)
+### 📦 [Estructuras de Datos](estructura-de-datos.md)
+   Collections
    - List
    - Set
    - Map
-2. [Genéricos](collections/generics.md)
+   - Genéricos
 
 ### ⚡ Características Modernas
 1. [Lambdas](modern/lambdas.md)
@@ -29,5 +29,6 @@
 
 ### 🔧 Utilidades
 1. [Java Utils](utils/java-utils.md)
+
 
 

@@ -6,8 +6,8 @@
    - [switch](#switch)
    - loops [for, while, do-while](#loops)
 2. [Ejemplos Prácticos](#ejemplos-prácticos)
-   - [Basicos](#Basicos)
-   - Avanzados
+   - [Básicos](#Básicos)
+   - [Avanzados](#Avanzados)
 3. [Casos de Uso Reales](#casos-de-uso-reales)
 
 ## Estructuras Básicas
@@ -92,7 +92,7 @@ for (Tipo elemento : colección) {
 
 ## Ejemplos Prácticos
 
-### Basicos 
+### Básicos 
 ### Calculadora de Notas
 ```java
 public class CalificacionEstudiante {
@@ -112,7 +112,8 @@ public class CalificacionEstudiante {
 }
 ```
 
-### Ejemplo Avanzado: Sistema de Autenticación
+### Avanzados 
+### Sistema de Autenticación
 ```java
 public class SistemaAutenticacion {
     private static final int MAX_INTENTOS = 3;

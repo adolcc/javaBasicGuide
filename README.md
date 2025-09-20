@@ -22,13 +22,15 @@
    - Lambdas
    - Anotaciones
 
-### 🛠 Testing y Desarrollo
-1. [Excepciones](testing/exceptions.md)
-2. [Testing Básico](testing/basic-testing.md)
-3. [TDD](testing/tdd.md)
+### 🛠 [Testing y Excepciones](testing-y-excepciones)
+   - Excepciones
+   - Testing Básico
+
+### [TDD](testing/tdd.md)
 
 ### 🔧 Utilidades
 1. [Java Utils](utils/java-utils.md)
+
 
 
 

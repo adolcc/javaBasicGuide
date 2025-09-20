@@ -30,8 +30,12 @@
 
 ### 🧪 [TDD-assertAll](tdd-y-assertAll.md)
 
-### 🔧 Utilidades
-1. [Java Utils](utils/java-utils.md)
+### 🔧 [Java Utils](java-utils.md)
+   - Arrays
+   - Collections
+   - LocalDate
+     
+
 
 
 
